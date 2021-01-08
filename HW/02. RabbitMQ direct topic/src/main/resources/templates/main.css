@@ -1,0 +1,13 @@
+.header {
+    color: black;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.content {
+    margin: 10px;
+}
+
+.data {
+    font-weight: bold;
+}

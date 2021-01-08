@@ -1,0 +1,21 @@
+= Описание API по курсам
+
+== Методы
+
+|===
+|Метод | Назначение
+|`PUT` | Обновить сущность или ее состояние
+|===
+
+=== Публикация курса
+
+Обновить баланс аккаунта
+
+.request
+include::{snippets}\update_account_balance\http-request.adoc[]
+
+.response
+include::{snippets}\update_account_balance\http-response.adoc[]
+
+.response-fields
+include::{snippets}\update_account_balance\response-fields.adoc[]

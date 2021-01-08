@@ -1,0 +1,4 @@
+#GET http://localhost/dishes/search/byRequest?price=100&name=dish #2
+
+
+#GET http://localhost/dishes/search?name=1
